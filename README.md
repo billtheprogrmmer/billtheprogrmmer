@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @billtheprogrmmer
+- 👋 Hi, I’m @Billsteve
 - 👀 I’m interested in fullstack developing
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on new projets
